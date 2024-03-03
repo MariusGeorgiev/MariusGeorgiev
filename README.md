@@ -26,3 +26,5 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mariusgeorgiev&label=Profile%20views&color=0e75b6&style=flat" alt="mariusgeorgiev" /> </p>
+
+<!-- code generator for readme prifile (https://rahuldkjain.github.io/gh-profile-readme-generator/) -->
