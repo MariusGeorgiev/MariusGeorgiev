@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I’m Marius Georgiev
+<h2 align="center">I’m Marius Georgiev</h2>
 
-- 🌱 I’m currently learning Front-end Development in SoftUni
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> 🌱 I’m currently learning Front-end Development in SoftUni</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
