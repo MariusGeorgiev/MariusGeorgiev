@@ -2,7 +2,8 @@
 
 <h2 align="center">I’m Marius Georgiev</h2>
 
-<h3 align="center"> 🌱 I’m currently learning Front-end Development in SoftUni</h3>
+<h3 align="center"> 🌱 I'm currently a student at SoftUni following a path to become a JavaScript Web Developer.
+I'm currently looking for my first job as a developer where I can apply my skills, learn from experienced mentors, and contribute to meaningful projects.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
